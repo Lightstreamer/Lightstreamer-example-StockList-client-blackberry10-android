@@ -8,7 +8,7 @@ Real-Time simulated Stock-List data is received from the Lightstreamer Server de
 
 There are different ways to compile and convert an Android application to run on BlackBerry 10. This README will focus on the use of the command line tools. Feel free to check the [other possibilities](http://developer.blackberry.com/android/)
 
-*   Download and install the needed [Command-line tools for Android apps](http://developer.blackberry.com/android/tools/) (scroll down a little to find them)
+*   Download and install the [Command-line tools for Android apps](http://developer.blackberry.com/android/tools/) (scroll down a little to find them)
 *   Download and install [VMware Player](http://www.vmware.com/products/player/) for Windows or [VMware Fusion](http://www.vmware.com/products/fusion/overview.html) for Mac.
 *   Download and install the [BlackBerry 10 Simulator](https://developer.blackberry.com/devzone/develop/simulator/simulator_installing.html)
 *   Follow the instructions of the [Lightstreamer StockList Demo Client for Android](https://github.com/Weswit/Lightstreamer-example-Stocklist-client-android) project to generate the applicatiuon apk file. Copy the generated apk to this project folder

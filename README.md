@@ -1,4 +1,4 @@
-# Lightstreamer StockList Demo Client for BlackBerry Android Runtime #
+# Lightstreamer - Basic Stock-List Demo - BlackBerry (Android Runtime) Client #
 
 ![screenshot](screenshot.png)
 
@@ -41,8 +41,8 @@ The app icon will appear on the simulator home screen.
 
 ## Lightstreamer Adapters needed by this demo client ##
 
-*   [Lightstreamer StockList Demo Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
-*   [Lightstreamer Reusable Metadata Adapter in Java](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java)
+*   [Lightstreamer - Stock-List Demo - Java SE Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
+*   [Lightstreamer - Reusable Metadata Adapters - Java SE Adapter](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java)
 
 
 # Lightstreamer Compatibility Notes #

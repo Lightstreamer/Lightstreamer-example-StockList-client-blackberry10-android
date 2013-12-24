@@ -1,12 +1,12 @@
 # Lightstreamer - Basic Stock-List Demo - BlackBerry (Android Runtime) Client #
-<!-- START DESCRIPTION Basic Stock-List Demo -->
+<!-- START DESCRIPTION lightstreamer-example-stocklist-client-blackberry10-android -->
 
 ![screenshot](screenshot.png)
 
 This demo reuses the sources of the Lightstreamer StockList Demo Client for Android and thus this project has no sources nor resources excluding this README file.
 
 Real-Time simulated Stock-List data is received from the Lightstreamer Server deployed @ [http://push.lightstreamer.com](http://push.lightstreamer.com)
-<!-- END DESCRIPTION Basic Stock-List Demo -->
+<!-- END DESCRIPTION lightstreamer-example-stocklist-client-blackberry10-android -->
 
 # Build #
 

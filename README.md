@@ -6,6 +6,8 @@ This project contains a simple stocklist demo application showing integration be
 
 ![screenshot](screen_bba_large.png)
 
+## Details
+
 This demo reuses the sources of the [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and thus this project has no sources nor resources excluding this README file.
 
 Real-Time simulated Stock-List data is received from the Lightstreamer Server deployed @ [http://push.lightstreamer.com](http://push.lightstreamer.com)

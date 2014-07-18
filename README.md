@@ -20,7 +20,7 @@ There are different ways to compile and convert an Android application to run on
 *   Download and install the [Command-line tools for Android apps](http://developer.blackberry.com/android/tools/) (scroll down a little to find them)
 *   Download and install [VMware Player](http://www.vmware.com/products/player/) for Windows or [VMware Fusion](http://www.vmware.com/products/fusion/overview.html) for Mac.
 *   Download and install the [BlackBerry 10 Simulator](https://developer.blackberry.com/devzone/develop/simulator/simulator_installing.html)
-*   Download the [Lightstreamer distribution](http://www.lightstreamer.com/download) and copy the Android_StockListDemo_Basic.apk file from the Lightstreamer Android Client SDK (that is located under the DOCS-SDKs/sdk_client_android/examples/Android_StockListDemo/bin folder) into this project.
+*   Download the [Lightstreamer distribution](http://www.lightstreamer.com/download) and copy the `Android_StockListDemo_Basic.apk` file from the Lightstreamer Android Client SDK (that is located under the `DOCS-SDKs/sdk_client_android/examples/Android_StockListDemo/bin` folder) into this project.
 
 once ready position the command-line to this project folder.
 
@@ -28,7 +28,7 @@ Being $BB_HOME the folder where you installed the command line tools and $ANDROI
 ```
 $BB_HOME/bin/apk2bar Android_StockListDemo_Basic.apk $ANDROID_HOME
 ```
-An Android_StockListDemo_Basic.bar file will be generated contained the re-packaged app. You'll also find a Android_StockListDemo_Basic.wrn file containing the conversion log.
+An `Android_StockListDemo_Basic.bar` file will be generated contained the re-packaged app. You'll also find a `Android_StockListDemo_Basic.wrn` file containing the conversion log.
 
 ### Run the Demo
 

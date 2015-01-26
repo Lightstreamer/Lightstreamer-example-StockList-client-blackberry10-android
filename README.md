@@ -2,13 +2,14 @@
 
 <!-- START DESCRIPTION lightstreamer-example-stocklist-client-blackberry10-android -->
 
+
 This project contains a simple stocklist demo application showing integration between the <b>BlackBerry 10 Android Runtime</b> and the <b>Lightstreamer Android Client</b>.
 
 ![screenshot](screen_bba_large.png)
 
 ## Details
 
-This demo reuses the sources of the [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and thus this project has no sources nor resources excluding this README file.
+This demo reuses the sources of the [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and thus, this project has no sources nor resources excluding this README file.
 
 Real-Time simulated Stock-List data is received from the Lightstreamer Server deployed @ [http://push.lightstreamer.com](http://push.lightstreamer.com)
 <!-- END DESCRIPTION lightstreamer-example-stocklist-client-blackberry10-android -->
@@ -22,7 +23,7 @@ There are different ways to compile and convert an Android application to run on
 *   Download and install the [BlackBerry 10 Simulator](https://developer.blackberry.com/devzone/develop/simulator/simulator_installing.html)
 *   Obtain the apk file for [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and copy it into this project.
 
-once ready position the command-line to this project folder.
+Once ready, position the command-line to this project folder.
 
 Being $BB_HOME the folder where you installed the command line tools and $ANDROID_HOME the folder where your Android SDK installation is, run
 ```

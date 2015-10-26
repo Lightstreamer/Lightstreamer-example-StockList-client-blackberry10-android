@@ -9,7 +9,7 @@ This project contains a simple stocklist demo application showing integration be
 
 ## Details
 
-This demo reuses the sources of the [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and thus, this project has no sources nor resources excluding this README file.
+This demo reuses the sources of the [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Lightstreamer/Lightstreamer-example-StockList-client-android) and thus, this project has no sources nor resources excluding this README file.
 
 Real-Time simulated Stock-List data is received from the Lightstreamer Server deployed @ [http://push.lightstreamer.com](http://push.lightstreamer.com)
 <!-- END DESCRIPTION lightstreamer-example-stocklist-client-blackberry10-android -->
@@ -21,7 +21,7 @@ There are different ways to compile and convert an Android application to run on
 *   Download and install the [Command-line tools for Android apps](http://developer.blackberry.com/android/tools/) (scroll down a little to find them)
 *   Download and install [VMware Player](http://www.vmware.com/products/player/) for Windows or [VMware Fusion](http://www.vmware.com/products/fusion/overview.html) for Mac.
 *   Download and install the [BlackBerry 10 Simulator](https://developer.blackberry.com/devzone/develop/simulator/simulator_installing.html)
-*   Obtain the apk file for [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Weswit/Lightstreamer-example-StockList-client-android) and copy it into this project.
+*   Obtain the apk file for [Lightstreamer - Basic Stock-List Demo - Android Client](https://github.com/Lightstreamer/Lightstreamer-example-StockList-client-android) and copy it into this project.
 
 Once ready, position the command-line to this project folder.
 
@@ -48,8 +48,8 @@ The app icon will appear on the simulator home screen.
 ### Lightstreamer Adapters Needed by This Demo Client
 <!-- START RELATED_ENTRIES -->
 
-*   [Lightstreamer - Stock-List Demo - Java Adapter](https://github.com/Weswit/Lightstreamer-example-Stocklist-adapter-java)
-*   [Lightstreamer - Reusable Metadata Adapters - Java Adapter](https://github.com/Weswit/Lightstreamer-example-ReusableMetadata-adapter-java)
+*   [Lightstreamer - Stock-List Demo - Java Adapter](https://github.com/Lightstreamer/Lightstreamer-example-Stocklist-adapter-java)
+*   [Lightstreamer - Reusable Metadata Adapters - Java Adapter](https://github.com/Lightstreamer/Lightstreamer-example-ReusableMetadata-adapter-java)
 
 <!-- END RELATED_ENTRIES -->
 

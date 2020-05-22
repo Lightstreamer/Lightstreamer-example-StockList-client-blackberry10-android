@@ -56,4 +56,3 @@ The app icon will appear on the simulator home screen.
 ## Lightstreamer Compatibility Notes
 
 *   Compatible with Lightstreamer Android Client library version 1.0.2.
-*   For Lightstreamer Allegro (+ Android Client API support), Presto, Vivace.
